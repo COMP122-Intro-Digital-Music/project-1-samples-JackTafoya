@@ -16,5 +16,6 @@
     "file": "samples/Noise120.mp3",
     "bpm": "120",
     "loop": "2"
+    "volume": 60
   }
 ]
