@@ -1,1 +1,20 @@
-[ ]
+[ 
+  {
+    "name": "Drum120",
+    "file": "samples/Drum120.mp3",
+    "bpm": "120",
+    "loop": "2"
+  },
+  {
+    "name": "Bass120",
+    "file": "samples/Bass120.mp3",
+    "bpm": "120",
+    "loop": "2"
+  },
+  {
+    "name": "Noise120",
+    "file": "samples/Noise120.mp3",
+    "bpm": "120",
+    "loop": "2"
+  }
+]
